@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* BANNER */
+.banner {
+    margin: 10px;
+}
+
+.banner img {
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 1em;
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+}
+
+/* NAVIGATION */
+#navMain {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#navMain li {
+    padding: 0 40px 0 40px;
+}
+
+#nav {
+    margin-bottom: 1em;
+}
+
+ /* SLIDER */
+.slider img {
+    width: 100%;
+    height: auto;
+}
